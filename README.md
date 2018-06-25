@@ -1,6 +1,8 @@
-# alpine-elixir-nodejs
+# docker-elixir-node
 
-> Base image preparing for running latest Phoenix framework from master branch directly
+> Base image preparing for running latest Phoenix framework from master branch directly. 
+
+> Based on Alpine.
 
 <div>
     <a href="https://elixir-lang.org">
@@ -9,10 +11,19 @@
             src="https://elixir-lang.org/images/logo/logo.png"
         />
     </a>
+    &nbsp;
     <a href="https://nodejs.org/">
         <img
             alt="Node.js"
             src="https://nodejs.org/static/images/logo-light.svg"
+            width="200"
+        />
+    </a>
+    &nbsp;
+    <a href="https://nodejs.org/">
+        <img
+            alt="Alpine Linux"
+            src="https://alpinelinux.org/alpinelinux-logo.svg"
             width="200"
         />
     </a>
