@@ -13,7 +13,7 @@
         />
     </a>
     &nbsp;
-    <a href="https://nodejs.org/">
+    <a href="https://nodejs.org">
         <img
             alt="Node.js"
             src="https://nodejs.org/static/images/logo-light.svg"
@@ -21,7 +21,7 @@
         />
     </a>
     &nbsp;
-    <a href="https://nodejs.org/">
+    <a href="https://alpinelinux.org">
         <img
             alt="Alpine Linux"
             src="https://alpinelinux.org/alpinelinux-logo.svg"
@@ -40,7 +40,7 @@ docker run -it --rm --name elixir alpine-elixir-nodejs sh
 
 # License
 
-View [license information](https://www.apache.org/licenses/LICENSE-2.0) for the software contained in this image.
+View [license information](https://github.com/nodejs/node/blob/master/LICENSE) for the software contained in this image.
 
 As with all Docker images, these likely also contain other software which may be under other licenses (such as Bash, etc from the base distribution, along with any direct or indirect dependencies of the primary software being contained).
 
