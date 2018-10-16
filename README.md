@@ -35,7 +35,7 @@
 ## Run it directly
 
 ```
-docker run -it --rm --name elixir alpine-elixir-nodejs sh
+docker run -it --rm --name elixir jeantsai/elixir-node-alpine sh
 ```
 
 # License
